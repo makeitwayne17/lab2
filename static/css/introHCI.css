@@ -21,6 +21,21 @@ body {
 	background: none;
 }
 
+.container{
+    background:#ebffd8;
+}
+
+.proj{
+    width: 525px;
+    font-variant: small-caps;
+    font-size: 200%;
+}
+
+.projectTitle{
+    font-size: 200%;
+    color: #2a40ff;
+}
+
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
