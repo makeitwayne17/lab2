@@ -6,4 +6,5 @@ function projectClick(e) { 
     // In an event handler, $(this) refers to      
     // the object that triggered the event      
     $(this).css("background-color", "#8000ff");
+    $(this).css("color", "#ebffd8");
 }
